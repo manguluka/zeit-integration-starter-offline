@@ -7,7 +7,7 @@
     "@zeit/integration-utils": "^0.6.1"
   },
   "scripts":{
-  	"publish":"now",
-  	"start":"now dev -p 5005 -d"
+  	"deploy":"now",
+  	"dev":"now dev -p 5005 -d"
   }
 }
