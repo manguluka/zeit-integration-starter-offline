@@ -2,7 +2,7 @@
 
 Originally created for participants in the inaugaural [Zeit Integrations Hackathon](https://zeit.co/hackathon). 
 
-Contributions(tests/documentation/endpoint support) welcome and appreciated. Feel free to contact `Luka Kakia` on the hackathon Slack with any questions.
+Contributions(tests/documentation/component examples) welcome and appreciated. Feel free to contact `Luka Kakia` on the hackathon Slack with any questions.
 
 ## Usage
 
@@ -49,4 +49,10 @@ curl -X POST http://localhost:5005 \
 
 ## Offline UI playground/simulator
 ![alt text](http://cdn-p4jszezsz.now.sh/zeit-starter-offline-playground.png "Logo Title Text 1")
-If you're feeling adventurous, an early-development UI playground is available at [https://zeit-integration-component-playground.lilo.now.sh](https://zeit-integration-component-playground.lilo.now.sh). This aims to allow completely offline UI development,
+If you're feeling adventurous, an early-development UI playground is available at [https://zeit-integration-component-playground.lilo.now.sh](https://zeit-integration-component-playground.lilo.now.sh). 
+
+This aims to eventually allow completely offline UI development, with a live editor for UI code and integration querys.
+
+## License
+
+MIT © [Luka Kakia](https://github.com/manguluka)
