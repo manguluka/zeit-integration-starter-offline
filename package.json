@@ -1,0 +1,13 @@
+{
+  "name": "zeit-integration-starter-offline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/integration-utils": "^0.6.1"
+  },
+  "scripts":{
+  	"publish":"now",
+  	"start":"now dev -p 5005 -d"
+  }
+}
