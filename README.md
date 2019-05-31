@@ -1,6 +1,6 @@
 ![alt text](http://cdn-31v9g5cfa.now.sh/zeit-starter-offline.png "Logo Title Text 1")
 
-Originally created for participants in the inaugaural [Zeit Integrations Hackathon](https://zeit.co/hackathon). 
+Originally created for participants in the inaugural [Zeit Integrations Hackathon](https://zeit.co/hackathon). 
 
 Contributions(tests/documentation/component examples) welcome and appreciated. Feel free to contact `Luka Kakia` on the hackathon Slack with any questions.
 
