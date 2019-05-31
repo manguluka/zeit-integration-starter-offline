@@ -53,6 +53,8 @@ If you're feeling adventurous, an early-development UI playground is available a
 
 This aims to eventually allow completely offline UI development, with a live editor for UI code and integration querys.
 
+**Expected unxexpected behaviour. A small subset of the component catalog is currently supported.**
+
 ## License
 
 MIT © [Luka Kakia](https://github.com/manguluka)
