@@ -49,7 +49,7 @@ curl -X POST http://localhost:5005 \
 
 ## Offline UI playground/simulator
 ![alt text](http://cdn-p4jszezsz.now.sh/zeit-starter-offline-playground.png "Logo Title Text 1")
-If you're feeling adventurous, an early-development UI playground is available at [https://zeit-integration-component-playground.lilo.now.sh](https://zeit-integration-component-playground.lilo.now.sh). 
+If you're feeling adventurous, an early-development UI playground is available at [https://zeit-integration-toolbox.lilo.now.sh](https://zeit-integration-toolbox.lilo.now.sh). 
 
 This aims to eventually allow completely offline UI development, with a live editor for UI code and integration querys.
 
