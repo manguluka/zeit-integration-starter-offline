@@ -47,11 +47,11 @@ curl -X POST http://localhost:5005 \
 }'
 ```
 
-## Offline UI playground/simulator
-![alt text](http://cdn-p4jszezsz.now.sh/zeit-starter-offline-playground.png "Logo Title Text 1")
-If you're feeling adventurous, an early-development UI playground is available at [https://zeit-integration-toolbox.lilo.now.sh](https://zeit-integration-toolbox.lilo.now.sh). 
+## Integration Development toolbox
+![screenrecording](http://cdn-9w4u9y9br.now.sh/zeit-integration-toolbox.gif "Screenrecording")
+If you're feeling adventurous, an early-development UI dev toolbox is available at [https://zeit-integration-toolbox.lilo.now.sh](https://zeit-integration-toolbox.lilo.now.sh). 
 
-This aims to eventually allow completely offline UI development, with a live editor for UI code and integration querys.
+This aims to eventually allow completely offline UI development, with a live editor for UI code, integration server querys and the [zeit-api-client](https://github.com/manguluka/zeit-api-client#readme) package.
 
 **Expect unexpected behaviour. A small subset of the component catalog is currently supported.**
 
