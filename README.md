@@ -6,6 +6,7 @@ Contributions(tests/documentation/component examples) welcome and appreciated. F
 
 **Related Links**
 - [https://github.com/manguluka/zeit-api-client](https://github.com/manguluka/zeit-api-client) JavaScript wrapper for the Zeit API
+- [https://github.com/manguluka/zeit-integration-toolbox](https://github.com/manguluka/zeit-integration-toolbox) Tools to facilitate rapid development of Zeit Integrations
 - [https://github.com/zeit/awesome-zeit-integrations](https://github.com/zeit/awesome-zeit-integrations) This list aggregates the best resources for ZEIT Integrations.
 
 
