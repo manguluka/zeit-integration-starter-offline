@@ -12,7 +12,16 @@ const componentLabel = (name = "", desc = "") => {
 	`;
 };
 module.exports = withUiHook(async ({ payload, zeitClient }) => {
-	return htm`
+	console.log("Received Payload:")
+	console.log(payload)
+	if (payload.action === "alternateView") {
+		return htm`
+			<Page>
+				<H1>Payload.action was 'alternateView'</H1>
+			</Page>
+		`;
+	} else {
+		return htm`
 		<Page>
 			<H2>Offline-first starter and component showcase for Zeit Integrations</H2>
 			<P>Source available at <Link href="https://github.com/manguluka/zeit-integration-starter-offline">https://github.com/manguluka/zeit-integration-starter-offline</Link></P>
@@ -80,4 +89,5 @@ module.exports = withUiHook(async ({ payload, zeitClient }) => {
 
 		</Page>
 	`;
+	}
 });
