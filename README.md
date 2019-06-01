@@ -17,6 +17,7 @@ Contributions(tests/documentation/component examples) welcome and appreciated. F
 #Development
 git clone git@github.com:manguluka/zeit-api-client.git # or fork and clone
 cd zeit-integration-starter-offline
+yarn install
 yarn dev
 # Server should be available at http://localhost:5005
 
